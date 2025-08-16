@@ -3,7 +3,7 @@
 A passionate **Data Scientist | Data Engineer | Machine Learning Enthusiast**  
 Building smart systems and data pipelines one line of code at a time 🚀
 
-📍 Based in Ethiopia 🇪🇹 | Open to collaborations & open-source projects  
+
 
 ---
 
@@ -57,15 +57,3 @@ When I'm not coding, you’ll find me exploring new datasets or training quirky 
 ---
 
 ✨ *"Data is the new oil — but only if you refine it."*
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nebekisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nebekisa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nebekisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nebekisa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nebekisa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
