@@ -1,59 +1,68 @@
-# Hi there 👋 I'm Bereket
+<img src="https://files.oaiusercontent.com/file-2WEX5wVrp2cY5SMTZVUVG2?se=2025-03-06T18%3A35%3A50Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc568a854-46de-4ea5-a4bf-d45c4ac412af.webp&sig=9qDv/v5xgNtMdpxk%2BXZPXAmXPyNTTKVqdIyshELB3Tw%3D">
 
-A passionate **Data Scientist | Data Engineer | Machine Learning Enthusiast**  
-Building smart systems and data pipelines one line of code at a time 🚀
+# 💫 About Me
 
+👋 Hi there! I'm **Bereket**  
 
+A passionate **Data Scientist | Data Engineer | Machine Learning Enthusiast** building intelligent systems and scalable data pipelines. I love transforming raw data into meaningful insights and powerful applications.
+
+🔹 **What I Do:**  
+- 📊 Design and implement end-to-end data workflows (ETL/ELT)  
+- 🧠 Develop machine learning models using Python & scikit-learn  
+- 🗄️ Build robust data infrastructure and databases  
+- 📈 Visualize data to uncover trends and drive decisions  
+
+🔹 **Tech Stack:**  
+- 🌐 Python, SQL, JavaScript, HTML/CSS  
+- ⚛️ Pandas, NumPy, Matplotlib, Scikit-learn  
+- 🔧 Git, Linux, Jupyter, VS Code  
+- 🚀 Exploring PyTorch, TensorFlow, and cloud platforms  
+
+🔹 **What I'm Learning:**  
+- 🤖 Deep Learning & Neural Networks  
+- ☁️ Big Data tools (Apache Spark, Airflow)  
+- 🔄 MLOps & model deployment  
+
+🔹 **What I'm Building:**  
+- 🚀 Real-world data science projects  
+- 📂 A portfolio of data-driven web apps (yes, with a little front-end magic!)  
+- 📊 Interactive dashboards and predictive models  
+
+🔹 **Let's Connect:**  
+I'm always open to **collaborations**, **research**, or **open-source contributions** in data & AI!  
+📧 Email: [libekiger@gmail.com](mailto:libekiger@gmail.com)  
 
 ---
 
-## 💼 About Me
+# 💻 Tech Stack
 
-- 🧠 I work at the intersection of **data science, engineering, and machine learning**
-- 🛠️ I build end-to-end data solutions — from pipelines to predictive models
-- 🌱 Constantly learning new tools and techniques in AI & big data
-- 🏗️ Love **building side projects** that solve real-world problems
-- 🎯 Goal: Make data-driven decision-making accessible and efficient
-
----
-
-## 🚀 Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekiger&show_icons=true&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekiger&layout=compact&theme=radical&hide_border=false)
-
----
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekiger/)
-[![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/libekiger)
-[![Portfolio/Website](https://img.shields.io/badge/Portfolio-900?style=for-the-badge&logo=vercel&logoColor=white)](https://bekiger.vercel.app) <!-- Update link if needed -->
+![](https://github-readme-stats.vercel.app/api?username=nebekisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nebekisa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nebekisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🛠️ Fun Fact
+### 🔝 Top Contributed Repositories
 
-I love **building side projects** — turning ideas into working prototypes is my favorite part of being a data geek! 💡  
-When I'm not coding, you’ll find me exploring new datasets or training quirky ML models 😄
+![](https://github-contributor-stats.vercel.app/api?username=nebekisa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-✨ *"Data is the new oil — but only if you refine it."*
+[![](https://visitcount.itsvg.in/api?id=nebekisa&icon=0&color=0)](https://visitcount.itsvg.in)
